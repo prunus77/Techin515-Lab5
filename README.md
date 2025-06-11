@@ -6,7 +6,7 @@ This project is a gesture recognition application built using TensorFlow and Fla
 
 The application implements edge offloading to optimize performance. Here's a screenshot of the serial monitor showing the edge offloading process:
 
-![Edge Offloading](Screenshots/edge_offloading.png)
+![Edge Offloading](Screenshots/Edge-Offload%20SS.png)
 
 ## Setup
 
