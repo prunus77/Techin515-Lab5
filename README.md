@@ -2,6 +2,12 @@
 
 This project is a gesture recognition application built using TensorFlow and Flask. It processes gesture data and serves predictions via a web interface.
 
+## Edge Offloading
+
+The application implements edge offloading to optimize performance. Here's a screenshot of the serial monitor showing the edge offloading process:
+
+![Edge Offloading](Screenshots/edge_offloading.png)
+
 ## Setup
 
 1. **Clone the repository:**
@@ -37,6 +43,7 @@ This project is a gesture recognition application built using TensorFlow and Fla
 - `rebuild_model.py`: Script to rebuild and save the TensorFlow model.
 - `Data/`: Directory containing gesture data files.
 - `App/`: Directory containing application-specific files.
+- `Screenshots/`: Directory containing project screenshots and visualizations.
 
 ## License
 
